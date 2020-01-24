@@ -15,7 +15,6 @@ This site is for Ed Rubin's 421 Winter 2020 class. Links for lab notes, homework
 * __Problem Set 1 Help:__ [Code](http://rpubs.com/jputz/568130)
    * Compiled by the one and only Jenni Putz! This code that will be useful for completing problem set 1. The assignment and dataset are available on the course Canvas page.
 
-* 
 ## Other Resources
 Here are some resources that my colleagues and I have used and recommend to you!
 * [Getting Started with R](https://support.rstudio.com/hc/en-us/articles/201141096-Getting-Started-with-RP)
