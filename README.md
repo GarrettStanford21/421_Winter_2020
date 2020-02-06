@@ -14,7 +14,7 @@ This site is for Ed Rubin's 421 Winter 2020 class. Links for lab notes, homework
 * __Lab 3: [ggplot!](https://rpubs.com/GarrettStanford21/572127)__
   + In Week 3 we did an introduction to the ggplot package and practiced plotting data
 
-* __Lab 3: [Heteroskedasticity](https://rpubs.com/GarrettStanford21/572138)__
+* __Lab 4: [Heteroskedasticity](https://rpubs.com/GarrettStanford21/572138)__
   + In Week 4 we discussed heteroskedasticity, how to test for it, and how to work around it
   
 ##Homework Help
