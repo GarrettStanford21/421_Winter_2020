@@ -10,7 +10,13 @@ This site is for Ed Rubin's 421 Winter 2020 class. Links for lab notes, homework
 
 * __Lab 2: [Review, Data, and Regressions](http://rpubs.com/GarrettStanford21/568257)__
   + In Week 2 we reviewed important concepts from week 1, learned how to run regressions, and to load data into R. 
+  
+* __Lab 3: [ggplot!](https://rpubs.com/GarrettStanford21/572127)__
+  + In Week 3 we did an introduction to the ggplot package and practiced plotting data
 
+* __Lab 3: [Heteroskedasticity](https://rpubs.com/GarrettStanford21/572138)__
+  + In Week 4 we discussed heteroskedasticity, how to test for it, and how to work around it
+  
 ##Homework Help
 * __Problem Set 1 Help:__ [Code](http://rpubs.com/jputz/568130)
    * Compiled by the one and only Jenni Putz! This code that will be useful for completing problem set 1. The assignment and dataset are available on the course Canvas page.
