@@ -17,6 +17,9 @@ This site is for Ed Rubin's 421 Winter 2020 class. Links for lab notes, homework
 * __Lab 4: [Heteroskedasticity](https://rpubs.com/GarrettStanford21/572138)__
   + In Week 4 we discussed heteroskedasticity, how to test for it, and how to work around it
   
+* __Lab 5: [Functions and Time-Series](https://rpubs.com/GarrettStanford21/576815)__
+  + In Week 5 we began learning how to use functions in R and made a data generating process to create time-series data
+  
 ##Homework Help
 * __Problem Set 1 Help:__ [Code](http://rpubs.com/jputz/568130)
    * Compiled by the one and only Jenni Putz! This code that will be useful for completing problem set 1. The assignment and dataset are available on the course Canvas page.
