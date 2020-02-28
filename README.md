@@ -19,6 +19,9 @@ This site is for Ed Rubin's 421 Winter 2020 class. Links for lab notes, homework
   
 * __Lab 5: [Functions and Time-Series](https://rpubs.com/GarrettStanford21/576815)__
   + In Week 5 we began learning how to use functions in R and made a data generating process to create time-series data
+
+* __Lab 6: [Time Series and Autocorrelation](https://rpubs.com/GarrettStanford21/579857)__
+  + In Week 6 we learned how to regress time series models and looked at autocorrelation
   
 ##Homework Help
 * __Problem Set 1 Help:__ [Code](http://rpubs.com/jputz/568130)
