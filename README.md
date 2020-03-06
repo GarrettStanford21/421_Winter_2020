@@ -23,6 +23,9 @@ This site is for Ed Rubin's 421 Winter 2020 class. Links for lab notes, homework
 * __Lab 6: [Time Series and Autocorrelation](https://rpubs.com/GarrettStanford21/579857)__
   + In Week 6 we learned how to regress time series models and looked at autocorrelation
   
+* __Lab 7: [Instrument Variables](https://rpubs.com/GarrettStanford21/582017)__
+  + An overview of what instrument variables are and some implementation in R  
+
 ##Homework Help
 * __Problem Set 1 Help:__ [Code](http://rpubs.com/jputz/568130)
    * Compiled by the one and only Jenni Putz! This code that will be useful for completing problem set 1. The assignment and dataset are available on the course Canvas page.
